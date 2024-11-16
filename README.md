@@ -1,6 +1,6 @@
 ![mini-shell-v2](https://github.com/user-attachments/assets/2f837e15-4306-4e7a-85b9-c5feb4acd9d4)
 
-# mini-v1
+# mini-v2
 Backdoor web by cyberEagle
 
 <br>
